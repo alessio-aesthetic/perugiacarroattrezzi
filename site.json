@@ -1,7 +1,7 @@
 {
   "city": "Perugia",
   "domain": "perugiacarroattrezzi.it",
-  "brand": "GRIFO / RECUPERO",
+  "brand": "Grifo Recupero",
   "phone": null,
   "address": null,
   "email": "assistenza@perugiacarroattrezzi.it",
@@ -14,5 +14,12 @@
     "Magione"
   ],
   "contactStatus": "awaiting_verified_phone_and_address",
-  "theme": "hill"
+  "theme": "hill",
+  "brandIdentity": {
+    "version": 2,
+    "concept": "Grifone geometrico con ala a cinque penne; marchio araldico con lettere scolpite.",
+    "primary": "/assets/brand/logo-primary.svg",
+    "reverse": "/assets/brand/logo-reverse.svg",
+    "symbol": "/assets/brand/symbol.svg"
+  }
 }
