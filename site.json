@@ -1,0 +1,18 @@
+{
+  "city": "Perugia",
+  "domain": "perugiacarroattrezzi.it",
+  "brand": "GRIFO / RECUPERO",
+  "phone": null,
+  "address": null,
+  "email": "assistenza@perugiacarroattrezzi.it",
+  "nearby": [
+    "Corciano",
+    "Bastia Umbra",
+    "Assisi",
+    "Torgiano",
+    "Deruta",
+    "Magione"
+  ],
+  "contactStatus": "awaiting_verified_phone_and_address",
+  "theme": "hill"
+}
